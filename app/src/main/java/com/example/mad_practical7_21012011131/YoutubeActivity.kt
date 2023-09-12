@@ -31,9 +31,6 @@ class YoutubeActivity : AppCompatActivity() {
         myWebView.settings.useWideViewPort = true
         myWebView.loadUrl("https://www.youtube.com/embed/$yotubeid")
 
-
-
-
     }
 
     fun wvideobtn()
