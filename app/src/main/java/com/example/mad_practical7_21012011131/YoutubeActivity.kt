@@ -20,7 +20,7 @@ class YoutubeActivity : AppCompatActivity() {
             wvideobtn();
         }
 //https://www.youtube.com/watch?v=yKGcngfS3YY
-        val yotubeid = "yKGcngfS3YY"
+        val yotubeid = "fJn9B64Znrk"
 
         val myWebView = findViewById<WebView>(R.id.web1)
 
